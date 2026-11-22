@@ -1,0 +1,176 @@
+0. Logotipo IBER
+Presenta la identidad visual y el nombre de la aplicación.
+
+1. Bienvenida
+Introduce IBER y permite comenzar o ingresar a una cuenta.
+
+2. Introducción a las simulaciones
+Explica que el usuario podrá practicar con correos falsos y enlaces peligrosos.
+
+3. Introducción a la evaluación
+Presenta las pruebas iniciales y finales para medir el aprendizaje.
+
+4. Registro de usuario
+Permite crear una cuenta mediante Apple, Google, SMS o formulario.
+
+5. Registro en proceso
+Muestra el proceso de carga durante el registro de una cuenta.
+
+6. Inicio de sesión
+Permite ingresar con correo y contraseña o mediante otras opciones de autenticación.
+
+7. Autenticación telefónica
+Solicita el número de teléfono para iniciar la verificación.
+
+8. Selección de país
+Permite buscar y seleccionar el país y su código telefónico.
+
+9. Número telefónico ingresado
+Muestra el número registrado antes de solicitar el código de verificación.
+
+10. Ingreso del código
+Permite introducir el código de verificación enviado al teléfono.
+
+11. Código verificado
+Confirma que el código de autenticación fue validado correctamente.
+
+12. Cuenta activada
+Informa que la cuenta ha sido activada exitosamente.
+
+13. Perfil creado
+Confirma la creación del perfil y permite continuar con la configuración.
+
+14. Encuesta de conocimientos
+Consulta qué tanto conoce el usuario sobre los riesgos en internet.
+
+15. Encuesta de preocupaciones
+Identifica los principales riesgos digitales que preocupan al usuario.
+
+16. Encuesta de información
+Consulta cómo recibe información sobre seguridad en internet.
+
+17. Selección del primer módulo
+Permite elegir el tema de ciberseguridad que se desea practicar primero.
+
+18. Configuración completada
+Confirma que el usuario terminó el proceso de configuración inicial.
+
+19. Inicio principal
+Presenta el progreso, módulos, cápsulas rápidas, simulaciones y recomendaciones.
+
+20. Inicio de entrenamiento
+Muestra el avance de las simulaciones y permite continuar el entrenamiento.
+
+21. Menú de usuario
+Presenta las opciones de glosario, guía, soporte, encuestas y gestión de sesión.
+
+22. Temas del glosario
+Organiza los conceptos según su estado de aprendizaje.
+
+23. Glosario de seguridad
+Presenta términos de ciberseguridad y permite buscar conceptos.
+
+24. Perfil de aprendizaje
+Muestra los datos del usuario, días aprendidos, amigos y progreso de aprendizaje.
+
+25. Opciones de foto de perfil
+Permite tomar una fotografía, mostrar la foto de perfil o cancelar.
+
+26. Configuración del perfil
+Presenta las opciones de ubicación, módulo, idioma, notificaciones, privacidad y sesión.
+
+27. Selección de contexto
+Permite seleccionar la ubicación o sede asociada al usuario.
+
+28. Selección de idioma
+Permite elegir el idioma de visualización de la aplicación.
+
+29. Configuración de notificaciones
+Permite activar o desactivar los recordatorios y alertas de práctica.
+
+30. Términos y marco legal
+Presenta las condiciones de uso académico y las disposiciones legales del prototipo.
+
+31. Política de privacidad
+Explica el tratamiento y la protección de los datos personales.
+
+32. Acceso a sesión anónima
+Permite iniciar una nueva sesión o ingresar con un código anónimo.
+
+33. Centro de ayuda
+Ofrece búsqueda de dudas, guías, preguntas frecuentes y opciones de soporte.
+
+34. Catálogo de módulos
+Presenta los módulos de phishing, contraseñas, enlaces web y protección de datos.
+
+35. Módulos completados
+Muestra las actividades finalizadas y sus respectivas puntuaciones.
+
+36. Módulos en curso
+Presenta las actividades pendientes y el progreso de aprendizaje.
+
+37. Simulación de mensaje bancario
+Presenta un mensaje sospechoso que el usuario debe analizar para identificar phishing.
+
+38. Simulación bancaria con pista
+Muestra la misma actividad después de utilizar la pista y eliminar una opción de respuesta.
+
+39. Retroalimentación correcta: mensaje bancario
+Confirma la respuesta correcta y explica por qué no se deben ingresar claves desde enlaces sospechosos.
+
+40. Retroalimentación incorrecta: mensaje bancario
+Advierte sobre el riesgo de ingresar información bancaria mediante enlaces sospechosos.
+
+41. Simulación de correo urgente
+Presenta un correo que amenaza con eliminar la cuenta para identificar técnicas de manipulación.
+
+42. Correo urgente con pista
+Muestra la actividad después de utilizar la pista y eliminar una opción de respuesta.
+
+43. Retroalimentación correcta: correo urgente
+Explica cómo la urgencia artificial y el miedo buscan provocar decisiones apresuradas.
+
+44. Retroalimentación incorrecta: correo urgente
+Advierte sobre las señales de presión y urgencia utilizadas en correos fraudulentos.
+
+45. Reto de identificación de phishing
+Presenta un correo electrónico y solicita seleccionar la parte sospechosa.
+
+46. Reto de phishing con selección
+Muestra el correo después de seleccionar una parte para identificar la amenaza.
+
+47. Retroalimentación correcta: identificación de phishing
+Confirma la identificación del dominio sospechoso y explica por qué representa una alerta.
+
+48. Retroalimentación incorrecta: identificación de phishing
+Advierte sobre el uso de dominios sospechosos en correos electrónicos.
+
+49. Simulación de falso premio
+Presenta un mensaje que ofrece una recompensa económica a cambio de información personal.
+
+50. Falso premio con pista
+Muestra la simulación después de utilizar la pista y eliminar una opción de respuesta.
+
+51. Retroalimentación correcta: falso premio
+Confirma la identificación del fraude y explica las señales de alerta relacionadas con premios exagerados.
+
+52. Retroalimentación incorrecta: falso premio
+Advierte sobre las recompensas exageradas y la presión por tiempo como señales de fraude.
+
+53. Simulación de correo sospechoso
+Presenta un correo que solicita cambiar la contraseña para evitar la suspensión de una cuenta.
+
+54. Correo sospechoso con selección
+Muestra la actividad después de seleccionar una de las características del mensaje.
+
+55. Retroalimentación correcta: correo sospechoso
+Confirma la identificación del dominio externo y recomienda verificar la dirección del remitente.
+
+56. Retroalimentación incorrecta: correo sospechoso
+Advierte sobre los dominios externos y las solicitudes inesperadas de cambio de contraseña.
+
+57. Resultados de evaluación satisfactoria
+Presenta el resultado del 100 % de respuestas correctas y cinco estrellas.
+
+58. Resultados de evaluación parcial
+Presenta el resultado del 40 % de respuestas correctas y dos estrellas.
